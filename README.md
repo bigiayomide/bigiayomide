@@ -1,4 +1,4 @@
-# Hi there. I am Jez Reel 👋 . Welcome to my Profile!!! 
+# Hi there. I am Ayomide Fajobi 👋 . Welcome to my Profile!!! 
  <!-- ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=bigiayomide.repoName) -->
 
 - 🔭 I am currently working as a Software engineer/ Devops Engineer.
